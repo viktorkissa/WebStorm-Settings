@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="rct" value="import React from 'react'$END$" description="import react" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
